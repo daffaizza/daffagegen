@@ -1,0 +1,28 @@
+.btn{
+    border-radius: 0%;
+    border: 1;
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding: 2rem 3rem;
+    text-transform: uppercase;
+    white-space: initial;
+    cursor: pointer;
+}
+.btn--daffa1{
+    background-color: blue;
+}
+.btn--daffa1:hover{
+    background: green;
+}
+.btn--daffa1:active{
+    background: red;
+}
+.btn--daffa2{
+    background-color: lightblue;
+}
+.btn--daffa2:hover{
+    background: yellow;
+}
+.btn--daffa2:active{
+    background: black;
+}
